@@ -9,17 +9,18 @@
 Pod::Spec.new do |s|
   s.name             = "testData"
   s.version          = "0.1.0"
-  s.summary          = "A short description of testData."
+  s.summary          = "A short description of testData. This is a sample file on how to create pod"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "TestData is sample project to have a work-around on how podSetup is done."
+#<<-DESC
+#                     DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/testData"
+  s.homepage         = "https://github.com/sivachidambaram/testData"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Siva" => "sivachidambaram@skava.com" }

@@ -1,0 +1,14 @@
+PODS:
+  - testData (0.1.0)
+
+DEPENDENCIES:
+  - testData (from `../`)
+
+EXTERNAL SOURCES:
+  testData:
+    :path: ../
+
+SPEC CHECKSUMS:
+  testData: 7abe6cd97ec65e1f0006ad8960a0138303c38de4
+
+COCOAPODS: 0.39.0
